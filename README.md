@@ -1,6 +1,9 @@
-## Hi there 👋
+###### _Tech Stack_
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,docker,react,github,theme=default)](https://skillicons.dev)
 
 <!--
+## Hi there 👋
+
 **devbsu/devbsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
